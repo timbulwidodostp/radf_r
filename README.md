@@ -1,6 +1,8 @@
 # radf_r
 Recursive Augmented Dickey-Fuller Test Use radf (exuber) With (In) R Software
 
+https://www.youtube.com/watch?v=ftaV7lWEEdY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
